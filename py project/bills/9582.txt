@@ -1,0 +1,17 @@
+	Welcome to Saini's Retail
+
+ Bill Number : 9582
+ Customer Name :Shyam
+ Phone Number :7885430098
+======================================
+ Products		QTY		Price
+======================================
+ Face Cream		1		120
+ Flour		3		600
+ Dew		1		45
+-------------------------------------
+ Cosmetics Tax			Rs. 6.0
+ Groceries Tax			Rs. 60.0
+ Cold Drinks Tax			Rs. 0.9
+ Total Bill : 			 Rs. 831.9
+-------------------------------------

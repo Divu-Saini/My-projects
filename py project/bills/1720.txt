@@ -1,0 +1,18 @@
+	Welcome to Saini's Retail
+
+ Bill Number : 1720
+ Customer Name :jitu
+ Phone Number :963258741
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		2		80
+  Hair Spray		3		540
+ Food Oil		6		720
+ Coke		2		100
+-------------------------------------
+ Cosmetics Tax			Rs. 31.0
+ Groceries Tax			Rs. 72.0
+ Cold Drinks Tax			Rs. 2.0
+ Total Bill : 			 Rs. 1545.0
+-------------------------------------

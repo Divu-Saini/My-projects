@@ -1,0 +1,23 @@
+	Welcome to Saini's Retail
+
+ Bill Number : 9480
+ Customer Name :xyz
+ Phone Number :26655333
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		2		80
+ Face Cream		1		120
+ Rice		3		240
+ Food Oil		2		240
+ Tea		4		600
+ Pepsi		2		80
+ Dew		1		45
+ Coke		1		50
+ Maaza		1		40
+-------------------------------------
+ Cosmetics Tax			Rs. 10.0
+ Groceries Tax			Rs. 108.0
+ Cold Drinks Tax			Rs. 4.3
+ Total Bill : 			 Rs. 1617.3
+-------------------------------------

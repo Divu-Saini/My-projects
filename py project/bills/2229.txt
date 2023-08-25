@@ -1,0 +1,20 @@
+	Welcome to Saini's Retail
+
+ Bill Number : 2229
+ Customer Name :Deepak Sain
+ Phone Number :6456776584
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		1		40
+ Face Wash		1		60
+ Body Lotion		1		180
+ Food Oil		1		120
+ Flour		5		1000
+ Sprite		1		40
+-------------------------------------
+ Cosmetics Tax			Rs. 14.0
+ Groceries Tax			Rs. 112.0
+ Cold Drinks Tax			Rs. 0.8
+ Total Bill : 			 Rs. 1566.8
+-------------------------------------

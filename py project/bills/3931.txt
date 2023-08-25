@@ -1,0 +1,18 @@
+	Welcome to Saini's Retail
+
+ Bill Number : 3931
+ Customer Name :gayu
+ Phone Number :98876655544
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		1		40
+ Face Wash		1		60
+ Sugar		5		200
+ Coke		5		250
+-------------------------------------
+ Cosmetics Tax			Rs. 5.0
+ Groceries Tax			Rs. 20.0
+ Cold Drinks Tax			Rs. 5.0
+ Total Bill : 			 Rs. 580.0
+-------------------------------------

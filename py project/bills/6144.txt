@@ -1,0 +1,20 @@
+	Welcome to Saini's Retail
+
+ Bill Number : 6144
+ Customer Name :ddd
+ Phone Number :969696969
+======================================
+ Products		QTY		Price
+======================================
+ Face Cream		1		120
+ Face Wash		2		120
+ Rice		4		320
+ Flour		5		1000
+ Dew		2		90
+ Limca		1		50
+-------------------------------------
+ Cosmetics Tax			Rs. 12.0
+ Groceries Tax			Rs. 132.0
+ Cold Drinks Tax			Rs. 2.8
+ Total Bill : 			 Rs. 1846.8
+-------------------------------------

@@ -1,0 +1,21 @@
+	Welcome to Saini's Retail
+
+ Bill Number : 6112
+ Customer Name :Deepak kumar
+ Phone Number :7887654433
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		5		200
+ Face Wash		1		60
+ Body Lotion		1		180
+ Flour		5		1000
+ Tea		1		150
+ Dew		1		45
+ Limca		1		50
+-------------------------------------
+ Cosmetics Tax			Rs. 22.0
+ Groceries Tax			Rs. 115.0
+ Cold Drinks Tax			Rs. 1.9
+ Total Bill : 			 Rs. 1823.9
+-------------------------------------

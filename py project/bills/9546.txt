@@ -1,0 +1,17 @@
+	Welcome to Saini's Retail
+
+ Bill Number : 9546
+ Customer Name :deepk
+ Phone Number :8765434456
+======================================
+ Products		QTY		Price
+======================================
+  Hair Spray		6		1080
+ Flour		1		200
+ Dew		1		45
+-------------------------------------
+ Cosmetics Tax			Rs. 54.0
+ Groceries Tax			Rs. 20.0
+ Cold Drinks Tax			Rs. 0.9
+ Total Bill : 			 Rs. 1399.9
+-------------------------------------

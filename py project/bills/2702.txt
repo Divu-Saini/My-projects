@@ -1,0 +1,21 @@
+	Welcome to Saini's Retail
+
+ Bill Number : 2702
+ Customer Name :dff
+ Phone Number :ee
+======================================
+ Products		QTY		Price
+======================================
+ Face Cream		5		600
+  Hair Gel		6		840
+ Pulses		6		360
+ Flour		6		1200
+ Tea		4		600
+ Coke		1		50
+ Maaza		4		160
+-------------------------------------
+ Cosmetics Tax			Rs. 72.0
+ Groceries Tax			Rs. 216.0
+ Cold Drinks Tax			Rs. 4.2
+ Total Bill : 			 Rs. 4102.2
+-------------------------------------
